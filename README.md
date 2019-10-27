@@ -4,6 +4,7 @@ How to generate the Indonesian Lyrics
    scrapy startproject filename
    
 2. Change to the directory by using this command in your terminal or command prompt
+   
    cd filename
 
 3. Make the command below in your terminal or command prompt    
