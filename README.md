@@ -1,5 +1,9 @@
 # GenerateIndonesianLyrics
+
 How to generate the Indonesian Lyrics
+
+We will gather data (indonesian lyrics) with web scraping technique using _scrapy_ library and lirik.kapanlagi.com as the target.
+The information that we should extract is songâ€™s lyric and title.
 
 1.	Create the scrapy project by using this command in your terminal or command prompt:  
 	
@@ -13,4 +17,4 @@ cd filename
 	
 scrapy crawl filename lirik.kapanlagi.com
 
-It will create a lyricscrapper.py inside the tutorial/spiders folder. We will call it web-crawler because it scrape by ‘crawling’ into the targeted website.
+It will create a lyricscrapper.py inside the tutorial/spiders folder. We will call it web-crawler because it scrape by 'crawling' into the targeted website.
