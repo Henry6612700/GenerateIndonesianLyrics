@@ -24,3 +24,11 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 class LyricScrapperSpider(CrawlSpider):
     name = 'lyric_scrapper'
+    
+    
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/Henr3"><img src="" width="120px;" alt="https://avatars0.githubusercontent.com/u/72328058?s=460&v=4"/><br /><sub><b>Yofie Silvia</b></sub></a><br /><a href="#content-Henry3" title="Content">🖋</a></td>
+  </tr>
+</table>
+
